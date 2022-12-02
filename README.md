@@ -68,7 +68,7 @@ In this section, you can choose if you want to see the results of training model
 
 In the "Results of fit", you can choose:
   - Classification : allows to see the coefficients and intercept of linear model.
-  - Xweights, Y weights: weights of X and Y.
+  - Xweights, Yweights: weights of X and Y.
   - Xscores, Yscores
   - and Xloadings, Yloadings.
  
