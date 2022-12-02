@@ -51,7 +51,7 @@ After uploading your file, click on "head" if you want to view your data, or cli
 
 In the "Select x variable" section, please choose features. 
 And in the "Select y variable", please choose the target.
-Don't forget to click on 2 submit's button.
+Don't forget to click on the two submit's button.
 
 <img width="1352" alt="Capture d’écran 2022-12-02 à 16 39 56" src="https://user-images.githubusercontent.com/114235978/205331587-1a743cdd-4061-4bd5-b533-f826d9e1602d.png">
 
