@@ -5,7 +5,7 @@ After creating the PLS-DA package in R (see [here](https://github.com/thohoang87
 
 ## Dataset Description
 
-In order to test our application, we work with the dataset breast_train_test.xlsx. It consists of 400 obervations and 10 variables.
+In order to test our application, we work with the dataset breast_train_test.xlsx. It consists of 400 observations and 10 variables.
 
 The Breast Cancer (Diagnostic) DataSet, contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass and describe characteristics of the cell nuclei present in the image.
 
