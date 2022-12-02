@@ -10,7 +10,7 @@ In order to test our application, we work with the dataset breast_train_test.xls
 The Breast Cancer (Diagnostic) DataSet, contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass and describe characteristics of the cell nuclei present in the image.
 
 Attribute information:
-  - 9 variables : clump, ucellsize, ucellshape, mgadhesion, sepics, bnuclei, bchromatin, nomnucl and mitoses.
+  - 9 features : clump, ucellsize, ucellshape, mgadhesion, sepics, bnuclei, bchromatin, nomnucl and mitoses.
   - Diagnosis (classe) : malignant or benign.
   
 The dataset contains 2 sheets : apprentissage (for training model) and test (for prediction).
