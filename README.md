@@ -25,7 +25,7 @@ The menu includes :
   - Data view : allows to upload, view and analyse your data.
   - Define status : allows to select features (independent variables), the target and modify parameters of algorithms if necessary.
   - Fit : allows to view the training results.
-  - Prediction : allows to view the prediction results of the training model or the prediction results of the file that you want to get the prediction.
+  - Prediction : allows to view the prediction results of the training model or the prediction results of the file that you want to get the prediction of.
   - Graphics : allows to view some graphics of the training model.
 
 ## App functionality :
@@ -41,7 +41,7 @@ If you want to upload a csv file, upload the file from your local machine, then 
 <img width="1297" alt="Capture d’écran 2022-12-02 à 16 34 04" src="https://user-images.githubusercontent.com/114235978/205329352-0f52734c-d216-48c8-a818-15096d05f0ac.png">
 <img width="1350" alt="Capture d’écran 2022-12-02 à 16 35 24" src="https://user-images.githubusercontent.com/114235978/205329372-47d56fa3-8e93-4039-8e86-038105ba37eb.png">
 
-Selection of the header is automatique, if you don't want to have the header, just don't select it.
+Selection of the header is automatic, if you don't want to have the header, just don't select it.
 
 If you just want to do some analysis and you don't have the file for prediction, just forget the section of prediction's upload.
 
@@ -76,9 +76,9 @@ In the "Results of fit", you can choose:
 
 ### Prediction Results :
 
-There are two sections in this section: 
-  - Training data prediction : allows to see the prediction results of training model. In this section, you can choose:
-    * Class : allows to see the group of each individu.
+There are two sub-sections in this section: 
+  - Training data prediction : allows to see the prediction results of training model. In this sub-section, you can choose:
+    * Class : allows to see the group of each individual.
     * Probability : allows to see the probability's result of softmax function.
     * Confusion matrix
     * Accuracy
@@ -88,13 +88,13 @@ There are two sections in this section:
   
   <img width="1188" alt="Capture d’écran 2022-12-02 à 17 03 27" src="https://user-images.githubusercontent.com/114235978/205334656-fdfee13f-24b6-4d67-9537-368ef5e076d0.png">
   
-  - Prediction Result : allows to see the prediction results of the file that you want to get the prediction, and you can download this result on csv or excel format.
+  - Prediction Result : allows to see the prediction results of the file that you want to get the prediction of, and you can download this result on csv or excel format.
 
 <img width="1205" alt="Capture d’écran 2022-12-02 à 17 04 10" src="https://user-images.githubusercontent.com/114235978/205334740-7e2927e6-9a31-4293-8142-77c7452e2049.png">
 
 ### Graphics :
 
-There are two sections in this section: 
+There are two sub-sections in this section: 
   - First selection graph : allows to see the circle correlation of features, the individual plot and the correlation matrix plot.
   
   <img width="1191" alt="Capture d’écran 2022-12-02 à 17 05 43" src="https://user-images.githubusercontent.com/114235978/205335639-aacb8e98-5926-4dc7-9f34-124eca7dbe3f.png">
