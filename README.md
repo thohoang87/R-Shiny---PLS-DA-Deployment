@@ -3,7 +3,7 @@ Create R-shiny application to deploy PLS-DA package
 
 After creating the PLS-DA package in R (see [here](https://github.com/Samibgh/Regression-PLS-) ), we built an R-shiny application to deploy this package.
 
-URL application : (see [rshinyApp](https://ha8g60-samibgh.shinyapps.io/App_PLS_Regression/)
+URL application : [rshinyApp](https://ha8g60-samibgh.shinyapps.io/App_PLS_Regression/)
 
 ## Dataset Description
 
