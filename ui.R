@@ -1,13 +1,13 @@
-library(shiny)
-library(shinyWidgets)
-library(plotly)
-library(dplyr)
-library(devtools)
-install_github("Samibgh/Regression-PLS-", force = T)
+library("shiny")
+library("shinyWidgets")
+library("plotly")
+library("heatmaply")
+library("dplyr")
+library("devtools")
 library("PlsRegression")
 library("dplyr")
-library(reactable)
-library(shinythemes)
+library("reactable")
+library("shinythemes")
 
 # Define UI for data upload app ----
 ui <- 
